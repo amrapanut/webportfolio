@@ -1,8 +1,8 @@
 
 {
     "capstone": {
-        "liveLink": "<github page link>",
-        "name": "<your name>",
+        "liveLink": "https://amrapanut.github.io/webportfolio/",
+        "name": "amrapanut",
         "isMulti": false
     }
 }
